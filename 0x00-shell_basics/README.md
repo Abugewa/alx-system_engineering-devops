@@ -1,1 +1,1 @@
-script to get absolute path name
+script to display content list
