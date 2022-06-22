@@ -1,1 +1,1 @@
-script to change working directory to home
+script to display content list in long format
