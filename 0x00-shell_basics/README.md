@@ -1,1 +1,1 @@
-script to display directory content including hidden files
+script to display directory content with user and group ID
