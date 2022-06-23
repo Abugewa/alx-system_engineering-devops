@@ -1,1 +1,1 @@
-script that sets no permission to the owner and groups, and all permission to other users
+a script that sets the mode of the file hello to -rwxr-x-wx
